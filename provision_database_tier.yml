@@ -5,6 +5,5 @@
   gather_facts: false
   tags:
     - database_servers
-
   roles:
     - postgres
